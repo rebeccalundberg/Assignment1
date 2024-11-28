@@ -1,0 +1,7 @@
+img{
+    width: 400px;
+    height: 300px;
+    border-style:groove;
+    border-color: red;
+    border-width: 7px;
+}
